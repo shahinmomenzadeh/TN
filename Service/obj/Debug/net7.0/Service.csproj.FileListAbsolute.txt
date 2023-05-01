@@ -1,0 +1,14 @@
+C:\Users\shahin\RiderProjects\democrud\Service\bin\Debug\net7.0\Service.deps.json
+C:\Users\shahin\RiderProjects\democrud\Service\bin\Debug\net7.0\Service.runtimeconfig.json
+C:\Users\shahin\RiderProjects\democrud\Service\bin\Debug\net7.0\Service.dll
+C:\Users\shahin\RiderProjects\democrud\Service\bin\Debug\net7.0\Service.pdb
+C:\Users\shahin\RiderProjects\democrud\Service\obj\Debug\net7.0\Service.csproj.AssemblyReference.cache
+C:\Users\shahin\RiderProjects\democrud\Service\obj\Debug\net7.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shahin\RiderProjects\democrud\Service\obj\Debug\net7.0\Service.AssemblyInfoInputs.cache
+C:\Users\shahin\RiderProjects\democrud\Service\obj\Debug\net7.0\Service.AssemblyInfo.cs
+C:\Users\shahin\RiderProjects\democrud\Service\obj\Debug\net7.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\shahin\RiderProjects\democrud\Service\obj\Debug\net7.0\Service.dll
+C:\Users\shahin\RiderProjects\democrud\Service\obj\Debug\net7.0\refint\Service.dll
+C:\Users\shahin\RiderProjects\democrud\Service\obj\Debug\net7.0\Service.pdb
+C:\Users\shahin\RiderProjects\democrud\Service\obj\Debug\net7.0\Service.genruntimeconfig.cache
+C:\Users\shahin\RiderProjects\democrud\Service\obj\Debug\net7.0\ref\Service.dll

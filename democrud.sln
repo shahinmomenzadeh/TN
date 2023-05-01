@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demotodo", "demotodo\demotodo.csproj", "{7F858B06-B9D7-4B3D-A410-3A5FF96ADB32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service", "Service\Service.csproj", "{5F53F406-CD96-41BE-AD5D-93D7E8FC12FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DB", "DB\DB.csproj", "{866C4530-EC1E-4228-A3AE-6CFD14C064A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F858B06-B9D7-4B3D-A410-3A5FF96ADB32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F858B06-B9D7-4B3D-A410-3A5FF96ADB32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F858B06-B9D7-4B3D-A410-3A5FF96ADB32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F858B06-B9D7-4B3D-A410-3A5FF96ADB32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F53F406-CD96-41BE-AD5D-93D7E8FC12FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F53F406-CD96-41BE-AD5D-93D7E8FC12FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F53F406-CD96-41BE-AD5D-93D7E8FC12FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F53F406-CD96-41BE-AD5D-93D7E8FC12FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{866C4530-EC1E-4228-A3AE-6CFD14C064A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{866C4530-EC1E-4228-A3AE-6CFD14C064A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{866C4530-EC1E-4228-A3AE-6CFD14C064A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{866C4530-EC1E-4228-A3AE-6CFD14C064A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
