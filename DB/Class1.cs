@@ -10,5 +10,5 @@ public class DBdemoo : DbContext
         
     }
     public DbSet<Todo>Todos { get; set; }
-    
+    public DbSet<list>Lists { get; set; }
 }

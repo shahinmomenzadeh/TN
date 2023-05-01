@@ -33,14 +33,14 @@ namespace Userapi.Controllers
         [HttpGet("{id}")]
         public async Task<ActionResult<Todo>> GetTodo(int id)
         {
-            var student = await _context.Todos.FindAsync(id);
+            var todo = await _context.Todos.FindAsync(id);
 
-            if (student == null)
+            if (todo == null)
             {
                 return NotFound();
             }
 
-            return student;
+            return todo;
         }
 
         // PUT: api/Student/5
